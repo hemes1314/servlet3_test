@@ -1,0 +1,7 @@
+.project
+.settings
+.classpath
+/test-web/.project
+/test-web/.settings
+/test-web/target
+/test-web/.classpath
