@@ -8,11 +8,6 @@
   <packaging>pom</packaging>
   <name>test</name>
   
-  <modules>
-    <module>test-web</module>
-    <module>test-module</module>
-  </modules>
-  
   <properties>
     <spring.version>4.1.7.RELEASE</spring.version>
   </properties>
