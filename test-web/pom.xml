@@ -14,10 +14,6 @@
   <name>test-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
-  <properties>
-    <spring.version>4.1.7.RELEASE</spring.version>
-  </properties>
-  
   <dependencies>
 	<!-- test-module作为test-web的依赖 -->
 	<dependency>
